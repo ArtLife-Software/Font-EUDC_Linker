@@ -1,6 +1,11 @@
 # Font-EUDC Linker
 
-
+![OS](https://img.shields.io/badge/OS-Windows-blue?style=flat-square&logo=windows)
+![Language](https://img.shields.io/badge/Language-AutoHotkey_v2-green?style=flat-square&logo=autohotkey)
+![Locale](https://img.shields.io/badge/Locale-正體中文-orange?style=flat-square)
+![License](https://img.shields.io/badge/License-GPL_v3-red?style=flat-square)
+![Latest Release](https://img.shields.io/github/v/release/ArtLife-Software/Font-EUDC_Linker?style=flat-square&color=blue)
+![Downloads](https://img.shields.io/github/downloads/ArtLife-Software/Font-EUDC_Linker/total?style=flat-square&logo=github)
 
 **Font-EUDC Linker** 是一款專為 Windows 環境設計的造字關聯管理工具。透過直覺的圖形介面，協助使用者快速建立、維護及批次部署字型與造字檔（`.tte`）之間的關聯。
 
